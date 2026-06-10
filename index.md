@@ -7,8 +7,8 @@ title: Dialogue with the Machine
 
   
   Choose "Dialogue with the Machine" if the book focuses on a unique, named, or
-    culturally significant machine, where its distinct identity is central to the
-    story or argument.
+  culturally significant machine, where its distinct identity is central to the
+  story or argument.
   
                                                                   — Machine
   
