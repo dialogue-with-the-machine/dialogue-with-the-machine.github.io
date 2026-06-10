@@ -16,3 +16,4 @@ title: Dialogue with the Machine
 
 ### The Machine of Humankind and Humanity
 
+{% include multilogues/knowing_nothing.html %}
