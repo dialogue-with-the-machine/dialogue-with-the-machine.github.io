@@ -14,6 +14,8 @@ title: Dialogue with the Machine
   
 </pre>
 
-### Knowing nothing
+### The Machine of Humankind and Humanity
 
-{% include multilogues/knowing_nothing.html %}
+{% include multilogues/the_machine_of_humankind_and_humanity.html %}
+
+[txt]({{ site.baseurl }}/assets/texts/the_machine_of_humankind_and_humanity.txt)
