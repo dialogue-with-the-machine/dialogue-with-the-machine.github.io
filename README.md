@@ -1,4 +1,4 @@
-# Dialogue with the Machine
+# # [Dialogue with the Machine](https://dialogue-with-the-machine.github.io)
 <pre>
 
 
